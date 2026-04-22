@@ -61,7 +61,7 @@ export default function App() {
             <div className="max-w-7xl mx-auto px-6 py-10">
                 <header className="flex items-center justify-between border-b border-white/10 pb-6">
                     <div>
-                        <p className="text-2xl font-semibold tracking-wide">OakTech Solutions</p>
+                        <p className="text-2xl font-semibold tracking-wide">OakTech</p>
                         <p className="text-sm text-white/50">Websites & Web Apps</p>
                     </div>
                     <a
@@ -226,7 +226,7 @@ export default function App() {
                                 brought to life, we can build around your vision.
                             </p>
                             <div className="mt-8 space-y-3 text-white/70">
-                                <p>Email: oaktechbuilds@gmail.com</p>
+                                <p>Email: natebrowna@gmail.com</p>
                                 <p>Best for: businesses, creators, events, and growing brands</p>
                             </div>
                         </div>
